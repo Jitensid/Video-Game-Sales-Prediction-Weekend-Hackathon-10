@@ -14,5 +14,5 @@ The leaderboard is evaluated using RMSE for the participant’s submission.
 
 # Leaderboard :
 
-Rank 12 (Score: 1.62412)
+Rank 13 (Score: 1.62412)
 
